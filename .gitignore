@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+music_index.sqlite3
+music_index.sqlite3-shm
+music_index.sqlite3-wal

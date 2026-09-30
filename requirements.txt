@@ -1,0 +1,5 @@
+towhee
+ towhee-models 
+gradio ipython
+scikit-learn 
+pymilvus "setuptools<81"
